@@ -1,5 +1,5 @@
 # Clipboard Plus Ultimate | Play Mode Save
-[![Latest Release](https://img.shields.io/badge/release-v1.0.0-orange)](https://assetstore.unity.com/packages/slug/311565)
+[![Latest Release](https://img.shields.io/badge/release-v1.1.2-orange)](https://assetstore.unity.com/packages/slug/311565)
 [![Documentation](https://img.shields.io/badge/documentation-available-blue)](https://github.com/AbdrahmanSoliman/ClipboardPlusUltimate/blob/master/Docs~/Documentation/Clipboard%20Plus%20Ultimate%20Documentation.pdf)
 
 A powerful Unity editor extension that preserves your play mode changes and manages component configurations. Save component states during play mode and manage them alongside your component clipboard system.
